@@ -9,7 +9,7 @@ shared_script '@ox_lib/init.lua'
 
 client_scripts {
     'client/main.lua',
-    'client/ped.lua' -- Ensure this is here!
+    'client/ped.lua'
 }
 
 server_scripts {
