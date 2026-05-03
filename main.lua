@@ -4,10 +4,10 @@ local Config = {
     TaxRate = 0.10,
     WashTime = 15, 
     ExpiryTime = 60,
-    BlackMoneyItem = "black_money",
-    TokenItem = "laundry_token",
+    BlackMoneyItem = "spawncode for dirtymoney",
+    TokenItem = "if you want to do a item token",
     TokenPrice = 5000,
-    Webhook = 'https://ptb.discord.com/api/webhooks/1497416736763547710/bYZr4hOV4Jb0ahhyMIjg_pI5--n6yBh4WcUzkdxdWvsIyAF3sZ_CJFiMPZ28CoSFmjIU' 
+    Webhook = 'for discord logs enter webhook here' 
 }
 
 local function DiscordLog(name, title, color, message)
